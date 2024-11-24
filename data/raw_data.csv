@@ -1,0 +1,105 @@
+Buildings Table,,,,,,,,
+,,,,,Width is the horizontal spread,Height is the rise,Length is the tread,
+Building Name/Location,Staircase,Steps_Located,Material ,Number of Steps,Width(inches),Height(inches),Length(inches),Surface Area in square foot per staircase
+Alumni House,Staircase,Inside,Metal,18,181,1.75,9.5,242.5902778
+Ball Park Baseball - Blue Seat Section Bottom,Staircase,Outside,Metal,2,60,6,12,10
+Ball Park Baseball - Blue Seat Section Mid,Staircase,Outside,Metal,8,48,6,12,44
+Ball Park Baseball - Blue Seat Section Top,Staircase,Outside,Metal,2,27,6,12,4.5
+Ball Park Baseball - Bleacher 1,Staircase,Outside,Metal,61,48,6,16,442
+Ball Park Baseball - Bleacher 2,Staircase,Outside,Metal,61,48,6,16,442
+Ball Park Baseball - Leading into the M. Bleachers,Staircase,Outside,Concrete_outside,16,50.5,6,12,96.79166667
+Ball Park Softball - Leading into the M. Bleachers,Staircase,Outside,Metal,16,50.5,6,12,96.79166667
+Ball Park Softball- Blue Seat Section Bottom,Staircase,Outside,Metal,2,60,6,12,10
+Ball Park Softball- Blue Seat Section Mid,Staircase,Outside,Metal,8,48,6,12,44
+Ball Park Softball- Blue Seat Section Top,Staircase,Outside,Metal,2,27,6,12,4.5
+Ball Park Softball- Bleacher 1,Staircase,Outside,Metal,16,48,6,16,112
+Ball Park Softball- Bleacher 2,Staircase,Outside,Metal,16,48,6,16,112
+Ball Park Softball- Concession to Softball,Staircase,Outside,Concrete_outside,3,14,5.75,140,28.89930556
+"Biology, Education, & Psychology",Staircase 1,Inside,Ceramic,23,11,7.5,71,132.4965278
+"Biology, Education, & Psychology",Staircase 2,Inside,Ceramic,23,11.5,7.5,70,136.7621528
+Braithwaite Building,Staircase 1,Inside,Rubber,30,12,6.33,48,131.825
+Braithwaite Building,Staircase 2,Inside,Rubber,30,12,6.25,48,131.625
+Braithwaite Gardens,Staircase 1,Outside,Concrete_outside,5,12.25,5.75,74.3,27.72838542
+Braithwaite Gardens,Staircase 2,Outside,Concrete_outside,5,12.75,5.75,73,28.39973958
+Center for the Musical Arts (CMA),Staircase 1,Inside,Carpet,31,95,77,12,1812.256944
+Center for the Musical Arts (CMA),Staircase 2,Inside,Carpet,31,60,77,12,1144.583333
+Center for the Musical Arts (CMA),Staircase 3,Inside,Rubber,7,95,75,12,393.8541667
+COB,Staircase Center,Inside,Stone,36,58.75,6,13.125,275.5436198
+COB,Staircase 1,Inside,Rubber,31,82,7.75,11.5,333.2673611
+COB,Staircase 2,Inside,Rubber,120,82,7.75,11.5,1308.868056
+COB,Staircase 3,Inside,Rubber,120,82,7.75,11.5,1308.868056
+COB Entrance,Staircase,Outside,Concrete_outside,6,99.5,6.75,14.5,78.07986111
+COB Parking Garage,Staircase 1,Outside,Concrete_outside,38,57.75,6.5,11.625,271.5553385
+COB Parking Garage,Staircase 2,Outside,Concrete_outside,38,56.75,6.5,11.625,266.8530816
+College of Arts and Sciences,Staircase 1,Inside,Ceramic,23,11.5,7.5,71.75,139.8368056
+College of Arts and Sciences,Staircase 2,Inside,Ceramic,23,11.25,7.5,70.25,134.21875
+College of Arts and Sciences Outside,Staircase East,Outside,Concrete_outside,8,10.5,5.75,321,167.1979167
+College of Arts and Sciences Outside,Staircase NorthEast,Outside,Concrete_outside,7,11.5,7.5,168.5,84.93229167
+College of Arts and Sciences,Auditorium,Inside,Carpet,10,0,0,0,
+College of Pharmacy Exit Stairs ST-2,Staircase 1,Inside,Stone,28,62.75,6.5,11.5,214.6137153
+College of Pharmacy Exit Stairs ST-3,Staircase 2,Inside,Rubber,59,64.5,6,11.75,463.8177083
+College of Pharmacy Lobby,Staircase lobby,Inside,Concrete_inside,32,69.75,3,13.25,245.4570313
+College of Pharmacy Outside,Staircase_North,Outside,Concrete_outside,36,120,5.875,15.75,635.625
+College of Pharmacy Outside,Staircase_East,Outside,Concrete_outside,5,300,6,24,262.5
+Cowan Center,Side A,Outside,Concrete_outside,8,12.5,6,71.25,47.4609375
+Cowan Center,Dock Steps,Outside,Concrete_outside,7,74,5.25,96,314.8854167
+Cowan Center,Side B,Outside,Concrete_outside,5,12.25,5.75,93.5,34.26171875
+Cowan Center,Entrance,Outside,Concrete_outside,20,11.75,6,96,158.625
+Fine Arts Building - to the kilns,Staircase,Outside,Concrete_outside,4,61,6,11.5,24.78125
+Fine Arts Builiding - Main Entrance,Staircase,Outside,Concrete_outside,9,61,6,11.5,61.84722222
+Herrington Patriot Center (HPC),Staircase,Outside,Concrete_outside,11,72,5.75,11.06,86.925
+Herrington Patriot Center (HPC),Staircase,Outside,Concrete_outside,10,72.13,6.13,5.81,56.89754653
+Herrington Patriot Center (HPC),Main staircase,Inside,Concrete_inside,52,60,6.5,12,395.8333333
+Herrington Patriot Center (HPC),Staircase 2,Inside,Concrete_inside,52,58,6.5,12,382.6388889
+Herrington Patriot Center (HPC),Staircase 3,Inside,Rubber,60,58,6.5,12,442.25
+Herrington Patriot Center (HPC),Staircase 4,Inside,Rubber,60,76,6.5,12,579.5
+Herrington Patriot Center (HPC),Staircase 5,Inside,Concrete_inside,26,76,6.5,12,247.5277778
+Herrington Patriot Center (HPC),Staircase 6,Inside,Concrete_inside,26,56,6.5,12,182.3888889
+Herrington Patriot Center (HPC),Staircase 7,Inside,Concrete_inside,47,56,6.5,12,333.4722222
+Herrington Patriot Center (HPC),Staircase 8,Inside,Concrete_inside,23,52,6.5,12,149.3194444
+Herrington Patriot Center (HPC),Staircase 9,Inside,Concrete_inside,28,52,6.5,12,182.7222222
+Hudnall-Pirtle-Roosth Building,Staircase 1,Inside,Carpet,33,11.25,7.25,76.75,210.5664063
+Hudnall-Pirtle-Roosth Building,Staircase 2,Inside,Carpet,23,11.25,7,76.75,144.4921875
+Hudnall-Pirtle-Roosth Building,Ouside case 1,Outside,Concrete_outside,23,11.25,7.25,93,172.8710938
+Jones Gym (PHE),Staircase 1,Outside,Concrete_outside,10,240,7,12,296.6666667
+Jones Gym (PHE),Staircase 2,Outside,Concrete_outside,10,72,6,11,79.5
+Jones Gym (PHE),Staircase 3,Outside,Concrete_inside,11,11,6,72,60.04166667
+Jones Gym (PHE),Staircase 4,Inside,Concrete_inside,8,69,7,11,63.72916667
+Jones Gym (PHE)- S125,Staircase 5,Inside,Tile,21,69,7,11,175.8541667
+Jones Gym (PHE)- S113,Staircase 6,Inside,Tile,28,69,7,11,236.2291667
+Library ,Staircase,Inside,Concrete_inside,73,68,6.75,11.5,623.6875
+Lot 14 Housekeeping Maintence ,Staircase,Outside,Concrete_outside,4,48,11.25,7.75,22.75
+P8 Parking Lot,Staircase,Outside,Concrete_outside,6,12.25,48,5.5,26.83940972
+Parking Lot 1,Staircase,Outside,Concrete_outside,8,72.81,6.75,13.69,75.75779375
+Parking Lot 16,Staircase,Outside,Concrete_outside,5,41.19,6.18,11.75,22.28264583
+Parking Lot 2,Staircase ,Outside,Concrete_inside,4,72,5,12,28
+Patriot Pantry Entrance,Staircase,Outside,Concrete_outside,3,68,6.75,11.5,20.42361111
+Patriot Plaza,Staircase 1,Outside,Concrete_outside,3,208,6,15.5,70.77777778
+Patriot Plaza,Staircase 2,Outside,Concrete_outside,15,95,6,17.5,221.0069444
+Patriot Plaza,Staircase,Outside,Concrete_outside,13,242,6,11.5,363
+Physical Plant Central Receiving ,Staircase,Outside,Wood,5,75,8.5,9,40.88541667
+Ratliff Building North,Staircase 1,Inside,Rubber,80,12,7,64.5,471.2916667
+Ratliff Building North,Staircase 2,Inside,Rubber,55,12,7,64.5,322.3333333
+Ratliff Building North,Main staircase,Inside,Ceramic,91,10.5,7,61,446.7604167
+Ratliff Building South,Staircase 1,Inside,Rubber,105,12,7,65,624.5833333
+Ratliff Building South,Staircase 2,Inside,Rubber,91,12,7,65,540.5833333
+Ratliff Building South,Main Staircase,Inside,Ceramic,91,10.5,7,51.25,382.7760417
+Ratliff Building South,Entrance Outside,Outside,Concrete_outside,10,12,6.75,247,190.875
+Stewart Hall (STE),Staircase 1,Inside,Carpet,42,55,7,11.5,292.3784722
+Stewart Hall (STE),Staircase 2,Inside,Carpet,42,55,7,11.5,292.3784722
+Summer Tennis Court,Staircase 5,Outside,Concrete_outside,7,71.18,7.06,12.25,60.76003889
+Summer Tennis Court - From tennis center to Courts,Staircase 1,Outside,Concrete_outside,14,63.13,7.25,11.43,109.6401507
+Summer Tennis Court - Pool to courts 1,Staircase 2,Outside,Concrete_outside,15,72.4,5.88,12.5,132.3311111
+Summer Tennis Court - Pool to courts 2,Staircase 3,Outside,Concrete_outside,7,72.5,5.88,12,56.97291667
+Summer Tennis Court - HPC to cul-de-sac,Staircase 4,Outside,Concrete_outside,15,70.5,4.69,11.81,115.3898958
+University Center (UC),Staircase 2,Inside,Ceramic,4,242,6,11.5,98.3125
+University Center (UC),Staircase 6,Inside,Ceramic,26,83,6,12,262.8333333
+University Center (UC),Staircase 4,Inside,Ceramic,27,90,6,11.5,288.125
+University Center (UC),Staircase 5,Inside,Ceramic,23,84,6,12,234.5
+University Center (UC),Staircase 1,Inside,Ceramic,23,84,6,12,234.5
+University Center (UC),Staircase 3,Inside,Ceramic,28,90,6,11.5,299.0625
+University Center (UC),Staircase 7,Inside,Ceramic,27,90,6,11.5,288.125
+University Center (UC) Entrance,Staircase 3,Outside,Concrete_outside,8,242,6,12,221.8333333
+University Center (UC) Maintenance,Staicase 1,Outside,Concrete_outside,23,84,6,12,234.5
+University Center (UC) Maintenance,Staircase 2,Outside,Concrete_outside,23,84,6,12,234.5
+"Utility Plant, Campus Utilities (PPS)",Staircase 1,Outside,Concrete_outside,4,96,5,12,37.33333333
