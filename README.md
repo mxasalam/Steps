@@ -39,9 +39,3 @@ This repository contains the complete analysis, data, and code for the project a
 ![Mean Median Mode Comparision](https://github.com/user-attachments/assets/3d07e4cc-2a97-41d7-8c48-18e1300dc165)
 ![Histogram](https://github.com/user-attachments/assets/6c9802d7-dbd2-4e25-acb4-7217f66dc34d)
 
-
-## Contributors
-- **Mohammed Abdul Salam**
-- Derick Beard
-- Mohammed Shakeeb
-- Ahmed Rafae Syed
